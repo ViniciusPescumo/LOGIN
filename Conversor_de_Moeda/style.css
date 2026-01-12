@@ -1,0 +1,49 @@
+body {
+    background-color: #8c52ff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+div {
+    background-color: #fff;
+    width: 500px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 300;
+
+}
+
+input {
+    width: 230px;
+    height: 35px;
+    padding-left: 5px;
+    padding-right: 5px;
+    outline: none;
+    opacity: 70%;
+    color: #8c52ff;
+}
+
+button {
+    margin-top: 30px;
+    height: 50px;
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+    background-color: #8c52ff;
+    font-size: 18px;
+    color: #fff;
+    cursor: pointer;
+}
